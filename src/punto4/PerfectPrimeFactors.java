@@ -3,7 +3,7 @@ package punto4;
 import java.util.Scanner;
 
 /**
- * @author Mendoza
+
  */
 public class PerfectPrimeFactors {
   
